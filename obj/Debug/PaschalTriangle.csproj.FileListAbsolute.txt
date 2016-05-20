@@ -1,0 +1,6 @@
+c:\users\wayii\documents\visual studio 2015\Projects\PaschalTriangle\PaschalTriangle\bin\Debug\PaschalTriangle.exe.config
+c:\users\wayii\documents\visual studio 2015\Projects\PaschalTriangle\PaschalTriangle\obj\Debug\PaschalTriangle.csprojResolveAssemblyReference.cache
+c:\users\wayii\documents\visual studio 2015\Projects\PaschalTriangle\PaschalTriangle\bin\Debug\PaschalTriangle.exe
+c:\users\wayii\documents\visual studio 2015\Projects\PaschalTriangle\PaschalTriangle\bin\Debug\PaschalTriangle.pdb
+c:\users\wayii\documents\visual studio 2015\Projects\PaschalTriangle\PaschalTriangle\obj\Debug\PaschalTriangle.exe
+c:\users\wayii\documents\visual studio 2015\Projects\PaschalTriangle\PaschalTriangle\obj\Debug\PaschalTriangle.pdb
