@@ -24,7 +24,7 @@ namespace PaschalTriangle
             {
                 for (int col = 0; col <= row; col++)
                 {
-                    triangle[row + 1][col] += triangle[row][col];
+                    triangle[row + 1][col + 1] += triangle[row][col];
                     triangle[row + 1][col + 1] += triangle[row][col];
                 }
             }
